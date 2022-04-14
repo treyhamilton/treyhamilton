@@ -19,13 +19,7 @@ I am currently a Software Engineer for IBM. I love engineering some of the great
 - 📝 [Resume](https://www.linkedin.com/in/trey-hamilton-767835103/overlay/1635488219966/single-media-viewer/).
 
 </br>
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 📈 **My GitHub Stats:**
 
 <p>
