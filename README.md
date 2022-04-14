@@ -6,27 +6,21 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=treyhamilton)
 
-I am currently a Software Engineer for IBM. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I am currently a Software Engineer for IBM. I love engineering some of the greatest solutions to some of the worlds most challenging and difficult problems!
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
+**About Me:**
 
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 👨🏻‍💻 I’m currently diving deeper into the field of Data Science;
+- 🚀 I’m currently obtaining my Masters of Science in Data Science at UVA;
+- 💬 Lets talk Data Science and AI. Feel free to message me;
+- 📫 How to reach me: treydavid32@gmail.com;
 - 📝 [Resume](https://www.linkedin.com/in/trey-hamilton-767835103/overlay/1635488219966/single-media-viewer/).
 
 </br>
 
 📈 **My GitHub Stats:**
-
-
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=treyhamilton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
