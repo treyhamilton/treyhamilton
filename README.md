@@ -8,7 +8,7 @@
 
 I am currently a Software Engineer for IBM. I love engineering some of the greatest solutions to some of the worlds most challenging and difficult problems!
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="310" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 **About Me:**
 
