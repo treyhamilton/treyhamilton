@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 [Resume](https://www.linkedin.com/in/trey-hamilton-767835103/overlay/1635488219966/single-media-viewer/).
 
 </br>
 
