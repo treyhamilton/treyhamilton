@@ -6,14 +6,14 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=treyhamilton)
 
-I am currently a Software Engineer for IBM. I love engineering some of the greatest solutions to some of the worlds most challenging and difficult problems!
+This may be outdated, probs is. Give me some time and I will update it.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 **About Me:**
 
 - 👨🏻‍💻 I’m currently diving deeper into the field of Data Science;
-- 🚀 I’m currently obtaining my Masters of Science in Data Science at UVA;
+- 🚀 I have my Masters of Science in Data Science at UVA;
 - 💬 Lets talk Data Science and AI. Feel free to message me;
 - 📫 How to reach me: treydavid32@gmail.com;
 - 📝 [Resume](https://www.linkedin.com/in/trey-hamilton-767835103/overlay/1635488219966/single-media-viewer/).
